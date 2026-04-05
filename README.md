@@ -1,7 +1,5 @@
 # text
 代码杂货铺
-package text.b;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
