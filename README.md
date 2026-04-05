@@ -1,4 +1,4 @@
-# text
+# 抖音网红爱心代码
 代码杂货铺
 import javax.swing.*;
 import java.awt.*;
