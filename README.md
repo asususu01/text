@@ -7,8 +7,8 @@ import java.util.Random;
 
 public class randomtext {
     public static void main(String[] args) {
+    
         String[] data = {"1","2","3","4"};
-
 
         int w = Toolkit.getDefaultToolkit().getScreenSize().width;
         int h = Toolkit.getDefaultToolkit().getScreenSize().height;
